@@ -98,11 +98,3 @@ Additional information about supported hardware can be found in [PX4 user Guide 
 ## Project Roadmap
 
 A high level project roadmap is available [here](https://www.dronecode.org/roadmap/).
-
-
-## This project is about constructing Fully Actuated drone
-Source: https://github.com/castacks/PX4-fully-actuated
-The idea of how to do it was taken from successfull project that ended in 2019, unfortunately that version of PX4 is no more possible to run, there are compatibility issues. 
-So I used the newest PX4 version (v1.11).  Used mixer and controllers from the project above, used them in the newest version. Had to re-code some parts of code to work in newer version.
-  
-
